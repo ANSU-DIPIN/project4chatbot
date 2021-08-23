@@ -22,8 +22,7 @@
 
 # 4.EDA
 
-![image](https://user-images.githubusercontent.com/71720761/130488339-69d2bed5-21b6-45b5-b87c-ceb8e46f7d0b.png)
-
+![image](https://user-images.githubusercontent.com/71720761/130488799-dd4c1b80-665b-4133-97e4-0b14ef04095e.png)
 
 # 5.MODEL BUILDING
 
