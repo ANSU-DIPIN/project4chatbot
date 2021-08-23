@@ -8,12 +8,8 @@
 
 
 # 1.Introduction
-
-* Reviews for a specific product are extracted . 
-
-* Generated  insights from the text data by applying various text mining methods. 
-
-* Sentiments (positive, negative, neutral, … are determined, by the model deployed, based on the new reviews from the website.  
+ 
+![image](https://user-images.githubusercontent.com/71720761/130487816-ac7f67db-ec30-4213-a76e-275669876938.png)
 
 # 2.Business Objective:
 
