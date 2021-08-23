@@ -1,0 +1,9 @@
+﻿
+Q:why is svm called as a black box technique?
+A:SVM is termed as a black box technique, as internally the algorithm applies complex transformations on the input variables based on the Kernel trick applied. Although, the math of these tranformations is not hidden but slightly complex. Becasue of this complexity, SVM is known as a black box technique.
+
+Q:what is cross entropy?
+A:Cross validation is a model validation technique for evaluating how the outcomes of statistical analysis will generalize to an Independent dataset. Mainly used in backgrounds where the objective is forecast and one wants to estimate how accurately a model will accomplish in practice.
+
+Q:explain quota sampling?
+A:This type of sampling depends of some pre-set standard. It selects the representative sample from the population. Proportion of characteristics/ trait in sample should be same as population. Elements are selected until exact proportions of certain types of data is obtained or sufficient data in different categories is collected.

@@ -1,0 +1,85 @@
+ï»¿
+
+2021-05-22 15:59:59.309531
+
+
+2021-05-22 16:29:34.443053
+You:hi
+Robo:Good to see you again
+You:what is cross entropy?
+Robo:Sorry I am still learning. Please elaborate or ask other Question!
+You:what is log loss?
+Robo:In classification techniques,  instead of predicting the actual classes, a measure called as LogLoss is used to predict the probabilities for an observation.
+You:yes
+Robo:Good to know that
+You:what is bayes' theorem?
+Robo:Bayes Theorem finds the probability of an event occurring given the probability of another event that has already occurred. Mathematically it is given as P(A|B) = [P(B|A)P(A)]/P(B) where A & B are events.  P(A|B) called Posterior Probability is the probability of event A(response) given that B(independent) has already occurred. P(B|A) is the likelihood of the training data i.e., probability of event B(independent) given that A(response) has already occurred. P(A) is the probability of the response variable and P(B) is the probability of the training data or evidence.
+You:yes
+Robo:Good to know that
+You:log loss?
+Robo:In classification techniques,  instead of predicting the actual classes, a measure called as LogLoss is used to predict the probabilities for an observation.
+You:what is log loss?
+Robo:In classification techniques,  instead of predicting the actual classes, a measure called as LogLoss is used to predict the probabilities for an observation.
+You:what is log loss?
+Robo:In classification techniques,  instead of predicting the actual classes, a measure called as LogLoss is used to predict the probabilities for an observation.
+You:why is svm called as a black box technique?
+Robo:SVM is termed as a black box technique, as internally the algorithm applies complex transformations on the input variables based on the Kernel trick applied. Although, the math of these tranformations is not hidden but slightly complex. Becasue of this complexity, SVM is known as a black box technique.
+You:no
+Robo:Sorry I am still learning . I will update myself soon
+You:bye
+Robo:Bye! take care..
+
+
+2021-05-22 16:37:25.414181
+You:hi
+Robo:Good to see you again
+You:what is a neural network ?
+Robo:Sorry I am still learning. Please elaborate or ask other Question!
+
+
+2021-05-22 16:37:53.830875
+You:hi
+Robo:Hi there, how can I help?
+You:what is a neural network ?
+Robo:27
+
+
+2021-05-22 16:40:42.263305
+You:what is a neural network ?
+Robo:Neural Network is a supervised machine learning algorithm which is inspired by human nervous system and it replicates the similar to how human brain is trained. It consists of Input Layers, Hidden Layers, & Output Layers.
+You:yes
+Robo:Good to know that
+You:explain snowball sampling?
+Robo:This technique is used in the situations where the population is completely unknown and rare. Therefore we will take the help from the first element which we select for the population and ask him to recommend other elements who will fit the description of the sample needed. So this referral technique goes on, increasing the size of population like a snowball.For example: It’s used in situations of highly sensitive topics like HIV Aids. Not all the victims will respond to the questions asked so researchers can contact people they know or volunteers to get in touch with the victims and collect information
+
+
+2021-05-22 16:46:46.363751
+You:hi
+Robo:Good to see you again
+You:what is entropy?
+Robo:Sorry I am still learning. Please elaborate or ask other Question!
+You:what is cross entropy?
+Robo:Cross validation is a model validation technique for evaluating how the outcomes of statistical analysis will generalize to an Independent dataset. Mainly used in backgrounds where the objective is forecast and one wants to estimate how accurately a model will accomplish in practice.
+You:no
+Robo:Sorry I am still learning . I will update myself soon
+You:cross entropy?
+Robo:Cross validation is a model validation technique for evaluating how the outcomes of statistical analysis will generalize to an Independent dataset. Mainly used in backgrounds where the objective is forecast and one wants to estimate how accurately a model will accomplish in practice.
+You:no 
+Robo:Hi there, how can I help?
+You:bye
+Robo:Bye! take care..
+
+
+2021-05-22 16:48:14.265555
+You:explain quota sampling?
+Robo:This type of sampling depends of some pre-set standard. It selects the representative sample from the population. Proportion of characteristics/ trait in sample should be same as population. Elements are selected until exact proportions of certain types of data is obtained or sufficient data in different categories is collected.
+You:no
+Robo:Sorry I am still learning . I will update myself soon
+You:explain convenience sampling?
+Robo:Here the samples are selected based on the availability. This method is used when the availability of sample is rare and also costly. So based on the convenience samples are selected. For example: Researchers prefer this during the initial stages of survey research, as it’s quick and easy to deliver results.
+You:yes
+Robo:Good to know that
+You:bye
+Robo:Bye! take care..
+You:hi
+Robo:Good to see you again
