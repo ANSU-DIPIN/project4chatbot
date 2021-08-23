@@ -12,10 +12,8 @@
 ![image](https://user-images.githubusercontent.com/71720761/130487816-ac7f67db-ec30-4213-a76e-275669876938.png)
 
 # 2.Business Objective:
-
-⮚	Natural Language processing on reviews of products in Amazon: Analyze the reviews posted by the customers and build an algorithm to find the emotions (Positive, Negative etc.,)
-
-⮚	Classification of the reviews to be done on a weekly basis using the algorithm. Entire application should work Automatically.
+ 
+![image](https://user-images.githubusercontent.com/71720761/130487956-136c560b-41ae-429d-a27f-032156870e8b.png)
 
 # 3.DATA EXTRACTION
 
