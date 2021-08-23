@@ -1,10 +1,10 @@
-# project1reviews
+# project4chatbot
 
-# Project Name: Review Analysis for A product Listed on Amazon
+# Project Name: A Chatbot which answers Data Science questions
 
 # Contents
 
-![image](https://user-images.githubusercontent.com/71720761/113471286-0cb3dd80-9479-11eb-856e-d8150a659451.png)
+![images](https://user-images.githubusercontent.com/71720761/130487556-ecd64332-3ad7-4aa3-9c12-efcdda802433.png)
 
 
 # 1.Introduction
