@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# project4chatbot
 
-You can use the [editor on GitHub](https://github.com/ANSU-DIPIN/project4chatbot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Project Name: A Chatbot which answers Data Science questions
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Contents
 
-### Markdown
+![images](https://user-images.githubusercontent.com/71720761/130487556-ecd64332-3ad7-4aa3-9c12-efcdda802433.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# 1.Introduction
+ 
+![image](https://user-images.githubusercontent.com/71720761/130487816-ac7f67db-ec30-4213-a76e-275669876938.png)
 
-# Header 1
-## Header 2
-### Header 3
+# 2.Business Objective:
+ 
+![image](https://user-images.githubusercontent.com/71720761/130487956-136c560b-41ae-429d-a27f-032156870e8b.png)
 
-- Bulleted
-- List
+# 3.DATA EXTRACTION
 
-1. Numbered
-2. List
+![image](https://user-images.githubusercontent.com/71720761/130488228-4606059c-80bc-4d95-86cd-659c25bd6c87.png)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+# 4.EDA
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![image](https://user-images.githubusercontent.com/71720761/130488799-dd4c1b80-665b-4133-97e4-0b14ef04095e.png)
 
-### Jekyll Themes
+# 5.MODEL BUILDING
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ANSU-DIPIN/project4chatbot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![image](https://user-images.githubusercontent.com/71720761/130488409-f1906aef-a016-4d7c-9c83-b99516d25e06.png)
 
-### Support or Contact
+# 6.Model Evaluation
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![image](https://user-images.githubusercontent.com/71720761/130488493-0d17babe-8785-440b-9808-541e0418b5bf.png)
+
+![image](https://user-images.githubusercontent.com/71720761/130488597-d00f2fc6-3524-42a7-89ef-b6c0639d3a9d.png)
+
+
+# 7.Feedback
+
+![image](https://user-images.githubusercontent.com/71720761/130488643-a0d661d7-4aac-47af-9b2a-cd368acda7e5.png)
